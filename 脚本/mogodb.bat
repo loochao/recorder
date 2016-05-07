@@ -1,0 +1,1 @@
+mongod --dbpath F:\runtime\mongodb\data\db
